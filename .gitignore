@@ -2,3 +2,5 @@ node_modules
 lib
 
 .cache
+.idea
+package-lock.json
